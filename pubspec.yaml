@@ -1,0 +1,13 @@
+name: time_pulse
+description: Package for measuring and comparing function execution times, offering performance insights.
+version: 0.0.1
+repository: https://github.com/chrestin-dev/TimePulse.git
+
+environment:
+  sdk: ^3.1.0
+
+dependencies:
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
